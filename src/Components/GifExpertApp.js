@@ -12,7 +12,7 @@ export const GifExpertApp = () => {
 
    return (
       <>
-         <h2>Busca un Gif</h2>
+         <h2>Busca un Gif porfis</h2>
          <AddCategory setCategories= { setCategories } />
          <hr />
          
